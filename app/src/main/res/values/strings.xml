@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Carbon</string>
+    <string name="basket">Your Basket</string>
+    <string name="product">Product</string>
+</resources>
